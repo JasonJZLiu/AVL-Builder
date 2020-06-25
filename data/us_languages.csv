@@ -1,0 +1,674 @@
+Year,Language,Count
+2000,English,215423555
+2000,Spanish or Spanish Creole,28101050
+2000,French,1643840
+2000,French Creole,453370
+2000,Italian,1008370
+2000,Portuguese or Portuguese Creole,564630
+2000,German,1383440
+2000,Yiddish,178945
+2000,Scandinavian languages,162250
+2000,Greek,365435
+2000,Russian,706240
+2000,Polish,667415
+2000,Serbo-Croatian,233865
+2000,Armenian,202710
+2000,Persian,312085
+2000,Gujarathi,235990
+2000,Hindi,317055
+2000,Urdu,262900
+2000,Chinese,2022145
+2000,Japanese,477995
+2000,Korean,894065
+2000,Mon-Khmer and Cambodian,181890
+2000,Miao and Hmong,168065
+2000,Thai,120465
+2000,Laotian,149305
+2000,Vietnamese,1009625
+2000,Tagalog,1224240
+2000,Other Pacific Island languages,313840
+2000,Navajo,178015
+2000,Hungarian,117975
+2000,Arabic,614580
+2000,Hebrew,195375
+2000,African languages,418505
+2008,English,225488799
+2008,Spanish,34183622
+2008,Ladino,125
+2008,French,1304758
+2008,Patois,28475
+2008,Cajun,25583
+2008,French Creole,621135
+2008,Italian,807010
+2008,Portuguese,676963
+2008,Papia Mentae,1371
+2008,German,1119963
+2008,Luxembourgian,707
+2008,Yiddish,162511
+2008,Pennsylvania Dutch,117547
+2008,Dutch,132191
+2008,Afrikaans,18943
+2008,Frisian,919
+2008,Swedish,56713
+2008,Danish,29728
+2008,Norwegian,41197
+2008,Icelandic,5170
+2008,Faroese,148
+2008,Greek,340028
+2008,Russian,846233
+2008,Polish,632362
+2008,Serbocroatian,152331
+2008,Croatian,57565
+2008,Serbian,63833
+2008,Bielorussian,1363
+2008,Ukrainian,142711
+2008,Czech,55382
+2008,Lusatian,189
+2008,Slovak,32227
+2008,Bulgarian,57016
+2008,Macedonian,22134
+2008,Slovene,7029
+2008,Armenian,220922
+2008,Persian,359176
+2008,Hindi,531313
+2008,Gujarati,301658
+2008,Urdu,335213
+2008,Bengali,190090
+2008,Panjabi,208387
+2008,Marathi,54223
+2008,Bihari,151
+2008,Rajasthani,464
+2008,Oriya,4790
+2008,Assamese,1215
+2008,Kashmiri,833
+2008,Nepali,34139
+2008,Sindhi,6907
+2008,Sinhalese,22278
+2008,Romany,2260
+2008,Jamaican Creole,19872
+2008,Krio,6900
+2008,Hawaiian Pidgin,108
+2008,Pidgin,2527
+2008,Gullah,352
+2008,Saramacca,112
+2008,Catalonian,1917
+2008,Romanian,146840
+2008,Rhaeto-romanic,39
+2008,Welsh,2452
+2008,Irish Gaelic,22279
+2008,Scottic Gaelic,1445
+2008,Albanian,125220
+2008,Lithuanian,42306
+2008,Lettish,16149
+2008,Pashto,15788
+2008,Kurdish,12982
+2008,Balochi,268
+2008,Tadzhik,150
+2008,Chinese,1554505
+2008,Hakka,1086
+2008,Cantonese,437301
+2008,Mandarin,381121
+2008,Fuchow,2671
+2008,Formosan,76131
+2008,Wu,2477
+2008,Japanese,457033
+2008,Korean,1048173
+2008,Mon-Khmer and Cambodian,182387
+2008,Hmong,185401
+2008,Thai,139845
+2008,Laotian,147865
+2008,Vietnamese,1204454
+2008,Kazakh,1006
+2008,Kirghiz,131
+2008,Karachay,698
+2008,Uighur,3190
+2008,Azerabaijani,1282
+2008,Turkish,107405
+2008,Turkmen,221
+2008,Mongolian,8430
+2008,Tungus,326
+2008,Dravidian,2146
+2008,Gondi,76
+2008,Telugu,171495
+2008,Kannada,35902
+2008,Malayalam,112378
+2008,Tamil,130731
+2008,Munda,2334
+2008,Tibetan,9764
+2008,Burmese,35281
+2008,Karen,3924
+2008,Kachin,178
+2008,Miao-yao and Mien,17421
+2008,Paleo-siberian,44
+2008,Tagalog,1444324
+2008,Indonesian,60657
+2008,Achinese,32
+2008,Balinese,272
+2008,Cham,891
+2008,Javanese,441
+2008,Malagasy,935
+2008,Malay,12440
+2008,Bisayan,23644
+2008,Sebuano,10027
+2008,Pangasinan,2144
+2008,Ilocano,76896
+2008,Bikol,812
+2008,Pampangan,5432
+2008,Micronesian,5514
+2008,Carolinian,187
+2008,Chamorro,17985
+2008,Gilbertese,173
+2008,Kusaiean,1056
+2008,Marshallese,10739
+2008,Mokilese,448
+2008,Mortlockese,40
+2008,Palau,4153
+2008,Ponapean,2347
+2008,Trukese,5434
+2008,Ulithean,39
+2008,Woleai-ulithi,51
+2008,Yapese,795
+2008,Melanesian,973
+2008,Polynesian,723
+2008,Samoan,57368
+2008,Tongan,26322
+2008,Niuean,17
+2008,Tokelauan,290
+2008,Fijian,3701
+2008,Marquesan,605
+2008,Rarotongan,124
+2008,Maori,659
+2008,Nukuoro,141
+2008,Hawaiian,24042
+2008,Navajo,170822
+2008,Aleut,1236
+2008,Pacific Gulf Yupik,8
+2008,Eskimo,2168
+2008,Inupik,5580
+2008,St Lawrence Island Yupik,993
+2008,Yupik,18626
+2008,Algonquian,288
+2008,Arapaho,1087
+2008,Atsina,45
+2008,Blackfoot,1970
+2008,Cheyenne,2399
+2008,Cree,951
+2008,Delaware,146
+2008,Fox,727
+2008,Kickapoo,1141
+2008,Menomini,946
+2008,French Cree,75
+2008,Miami,168
+2008,Micmac,230
+2008,Ojibwa,6986
+2008,Ottawa,312
+2008,Passamaquoddy,982
+2008,Penobscot,144
+2008,Abnaki,86
+2008,Potawatomi,824
+2008,Shawnee,321
+2008,Yurok,491
+2008,Kutenai,200
+2008,Makah,176
+2008,Kwakiutl,85
+2008,Nootka,10
+2008,Clallam,146
+2008,Coeur D'alene,174
+2008,Columbia,17
+2008,Cowlitz,110
+2008,Salish,1233
+2008,Okanogan,284
+2008,Puget Sound Salish,207
+2008,Quinault,128
+2008,Haida,118
+2008,Athapascan,1627
+2008,Ahtena,18
+2008,Ingalit,127
+2008,Koyukon,58
+2008,Kuchin,1217
+2008,Tanaina,11
+2008,Chasta Costa,84
+2008,Hupa,174
+2008,Apache,14012
+2008,Kiowa,1274
+2008,Tlingit,1026
+2008,Mountain Maidu,319
+2008,Northwest Maidu,32
+2008,Sierra Miwok,216
+2008,Nomlaki,38
+2008,Wintun,24
+2008,Foothill North Yokuts,407
+2008,Tachi,45
+2008,Santiam,50
+2008,Siuslaw,6
+2008,Klamath,95
+2008,Nez Perce,942
+2008,Sahaptian,1654
+2008,Upper Chinook,58
+2008,Tsimshian,68
+2008,Achumawi,68
+2008,Atsugewi,15
+2008,Karok,700
+2008,Pomo,648
+2008,Washo,227
+2008,Cocomaricopa,44
+2008,Mohave,330
+2008,Yuma,172
+2008,Diegueno,228
+2008,Delta River Yuman,483
+2008,Havasupai,90
+2008,Walapai,458
+2008,Yavapai,139
+2008,Chumash,39
+2008,Tonkawa,29
+2008,Yuchi,4
+2008,Crow,3962
+2008,Hidatsa,806
+2008,Mandan,104
+2008,Dakota,18804
+2008,Chiwere,60
+2008,Winnebago,1340
+2008,Kansa,7
+2008,Omaha,457
+2008,Osage,260
+2008,Ponca,131
+2008,Alabama,165
+2008,Choctaw,10368
+2008,Mikasuki,188
+2008,Koasati,59
+2008,Muskogee,5072
+2008,Chetemacha,89
+2008,Keres,13073
+2008,Iroquois,76
+2008,Mohawk,1423
+2008,Oneida,527
+2008,Onondaga,239
+2008,Cayuga,6
+2008,Seneca,1353
+2008,Tuscarora,179
+2008,Cherokee,12320
+2008,Arikara,103
+2008,Caddo,51
+2008,Pawnee,122
+2008,Wichita,242
+2008,Comanche,963
+2008,Mono,349
+2008,Paiute,1638
+2008,Northern Paiute,12
+2008,Chemehuevi,15
+2008,Ute,1625
+2008,Shoshoni,2512
+2008,Hopi,6776
+2008,Cahuilla,139
+2008,Cupeno,11
+2008,Luiseno,327
+2008,Serrano,5
+2008,Pima,8190
+2008,Yaqui,425
+2008,Tiwa,2269
+2008,Tewa,5123
+2008,Towa,2192
+2008,Zuni,9432
+2008,Chinook Jargon,644
+2008,American Indian,8888
+2008,Jicarilla,455
+2008,Chiricahua,457
+2008,Spokane,20
+2008,Hungarian,94125
+2008,Arabic,760505
+2008,Hebrew,216615
+2008,Amharic,146337
+2008,Berber,1475
+2008,Chadic,5091
+2008,Cushite,90434
+2008,Sudanic,8966
+2008,Nilotic,4964
+2008,Nilo-hamitic,525
+2008,Nubian,129
+2008,Saharan,19
+2008,Khoisan,19
+2008,Swahili,72404
+2008,Bantu,42098
+2008,Mande,27657
+2008,Fulani,22469
+2008,Gur,849
+2008,Kru and Ibo and Yoruba,267174
+2008,Efik,5497
+2008,Mbum,340
+2008,African,13767
+2008,Finnish,25806
+2008,Estonian,5938
+2008,Lapp,23
+2008,Other Uralic languages,31
+2008,Caucasian,6870
+2008,Basque,1649
+2008,Syriac,61272
+2008,Aztecan,1327
+2008,Sonoran,63
+2008,Misumalpan,127
+2008,Mayan languages,6832
+2008,Tarascan,470
+2008,Mapuche,214
+2008,Oto - Manguen,2596
+2008,Quechua,935
+2008,Aymara,63
+2008,Arawakian,1960
+2008,Chibchan,48
+2008,Tupi-guarani,456
+2008,Uncodable Entries,4889
+2013,English,231122908
+2013,Spanish,37458470
+2013,Ladino,130
+2013,French,1253560
+2013,Patois,32900
+2013,Cajun,21285
+2013,French Creole,739725
+2013,Italian,708966
+2013,Portuguese,692500
+2013,Papia Mentae,970
+2013,German,1063275
+2013,Luxembourgian,500
+2013,Yiddish,155582
+2013,Pennsylvania Dutch,133190
+2013,Dutch,141580
+2013,Afrikaans,23010
+2013,Frisian,510
+2013,Swedish,55735
+2013,Danish,28285
+2013,Norwegian,39430
+2013,Icelandic,4865
+2013,Faroese,30
+2013,Greek,304932
+2013,Russian,879434
+2013,Polish,580153
+2013,Serbocroatian,144675
+2013,Croatian,53040
+2013,Serbian,70260
+2013,Bielorussian,1805
+2013,Ukrainian,152325
+2013,Czech,47385
+2013,Lusatian,(D)
+2013,Slovak,27930
+2013,Bulgarian,57785
+2013,Macedonian,22885
+2013,Slovene,6370
+2013,Armenian,237840
+2013,Persian,391113
+2013,Hindi,643337
+2013,Gujarati,373253
+2013,Urdu,397502
+2013,Bengali,257740
+2013,Panjabi,253740
+2013,Marathi,73630
+2013,Bihari,595
+2013,Rajasthani,715
+2013,Oriya,5385
+2013,Assamese,1305
+2013,Kashmiri,1775
+2013,Nepali,94220
+2013,Sindhi,8965
+2013,Sinhalese,26745
+2013,Romany,1555
+2013,Jamaican Creole,21965
+2013,Krio,10560
+2013,Hawaiian Pidgin,365
+2013,Pidgin,4445
+2013,Gullah,385
+2013,Saramacca,35
+2013,Catalonian,2325
+2013,Romanian,154625
+2013,Welsh,2235
+2013,Irish Gaelic,20590
+2013,Scottic Gaelic,1635
+2013,Albanian,133870
+2013,Lithuanian,39790
+2013,Latvian,16035
+2013,Pashto,22760
+2013,Kurdish,17020
+2013,Balochi,185
+2013,Tadzhik,435
+2013,Ossete,50
+2013,Chinese,1867485
+2013,Hakka,1350
+2013,Kan Hsiang,50
+2013,Cantonese,458840
+2013,Mandarin,487250
+2013,Fuchow,1450
+2013,Formosan,77675
+2013,Wu,2670
+2013,Japanese,449475
+2013,Korean,1117343
+2013,Mon-Khmer and Cambodian,212167
+2013,Hmong,214943
+2013,Thai,152649
+2013,Laotian,152647
+2013,Vietnamese,1399936
+2013,Kazakh,1480
+2013,Kirghiz,550
+2013,Karachay,420
+2013,Uighur,8905
+2013,Azerbaijani,2085
+2013,Turkish,116515
+2013,Turkmen,205
+2013,Mongolian,10180
+2013,Tungus,235
+2013,Dravidian,1150
+2013,Gondi,1470
+2013,Telugu,247760
+2013,Kannada,48620
+2013,Malayalam,146310
+2013,Tamil,190685
+2013,Munda,2030
+2013,Burushaski,95
+2013,Tibetan,16730
+2013,Burmese,62645
+2013,Karen,30185
+2013,Kachin,520
+2013,Mien,19010
+2013,Paleo-siberian,530
+2013,Tagalog,1613346
+2013,Indonesian,67410
+2013,Balinese,795
+2013,Cham,1050
+2013,Javanese,495
+2013,Malagasy,720
+2013,Malay,14580
+2013,Minangkabau,15
+2013,Sundanese,35
+2013,Bisayan,29800
+2013,Sebuano,15700
+2013,Pangasinan,2265
+2013,Ilocano,85755
+2013,Bikol,695
+2013,Pampangan,5620
+2013,Micronesian,7830
+2013,Carolinian,945
+2013,Chamorro,19780
+2013,Gilbertese,170
+2013,Kusaiean,1165
+2013,Marshallese,18485
+2013,Mokilese,500
+2013,Palau,4140
+2013,Ponapean,3525
+2013,Trukese,8790
+2013,Ulithean,40
+2013,Woleai-Ulithi,140
+2013,Yapese,720
+2013,Melanesian,1305
+2013,Polynesian,435
+2013,Samoan,64135
+2013,Tongan,31440
+2013,Tokelauan,125
+2013,Fijian,5755
+2013,Marquesan,135
+2013,Rarotongan,95
+2013,Maori,460
+2013,Nukuoro,210
+2013,Hawaiian,26205
+2013,Navajo,166826
+2013,Aleut,995
+2013,Pacific Gulf Yupik,70
+2013,Eskimo,1270
+2013,Inupik,6740
+2013,St Lawrence Island Yupik,1070
+2013,Yupik,19750
+2013,Algonquian,1030
+2013,Arapaho,1065
+2013,Atsina,55
+2013,Blackfoot,1450
+2013,Cheyenne,1920
+2013,Cree,870
+2013,Delaware,240
+2013,Fox,400
+2013,Kickapoo,820
+2013,Menomini,405
+2013,French Cree,170
+2013,Miami,115
+2013,Micmac,205
+2013,Ojibwa,9735
+2013,Ottawa,965
+2013,Passamaquoddy,845
+2013,Penobscot,75
+2013,Abnaki,55
+2013,Potawatomi,985
+2013,Shawnee,255
+2013,Yurok,350
+2013,Kutenai,215
+2013,Makah,150
+2013,Kwakiutl,175
+2013,Upper Chehalis,4
+2013,Clallam,145
+2013,Coeur d'Alene,95
+2013,Salish,1350
+2013,Okanogan,230
+2013,Puget Sound Salish,215
+2013,Quinault,145
+2013,Haida,180
+2013,Athapascan,1265
+2013,Ahtena,45
+2013,Han,60
+2013,Ingalit,15
+2013,Koyukon,65
+2013,Kuchin,1285
+2013,Tanaina,90
+2013,Chasta Costa,165
+2013,Hupa,70
+2013,Other Athapascan-Eyak,25
+2013,Apache,13445
+2013,Kiowa,750
+2013,Tlingit,1240
+2013,Mountain Maidu,200
+2013,Sierra Miwok,155
+2013,Patwin,4
+2013,Wintun,135
+2013,Foothill North Yokuts,225
+2013,Santiam,55
+2013,Siuslaw,10
+2013,Klamath,205
+2013,Nez Perce,805
+2013,Sahaptian,1295
+2013,Upper Chinook,270
+2013,Tsimshian,40
+2013,Karok,445
+2013,Pomo,485
+2013,Washo,215
+2013,Cocomaricopa,35
+2013,Mohave,200
+2013,Yuma,290
+2013,Diegueno,295
+2013,Delta River Yuman,365
+2013,Havasupai,145
+2013,Walapai,300
+2013,Yavapai,245
+2013,Tonkawa,50
+2013,Yuchi,165
+2013,Crow,4160
+2013,Hidatsa,625
+2013,Mandan,75
+2013,Dakota,17855
+2013,Chiwere,105
+2013,Winnebago,1720
+2013,Kansa,20
+2013,Omaha,480
+2013,Osage,420
+2013,Ponca,305
+2013,Alabama,370
+2013,Choctaw,9635
+2013,Mikasuki,290
+2013,Koasati,365
+2013,Muskogee,4465
+2013,Chetemacha,65
+2013,Keres,13190
+2013,Iroquois,165
+2013,Mohawk,1945
+2013,Oneida,770
+2013,Onondaga,75
+2013,Seneca,1015
+2013,Tuscarora,240
+2013,Wyandot,30
+2013,Cherokee,11465
+2013,Arikara,155
+2013,Caddo,115
+2013,Pawnee,95
+2013,Comanche,1015
+2013,Mono,355
+2013,Paiute,1305
+2013,Northern Paiute,30
+2013,Ute,1895
+2013,Shoshoni,2000
+2013,Hopi,6075
+2013,Cahuilla,60
+2013,Cupeno,20
+2013,Luiseno,75
+2013,Pima,6990
+2013,Yaqui,640
+2013,Picuris,155
+2013,Tiwa,2180
+2013,Tewa,4620
+2013,Towa,1925
+2013,Zuni,9615
+2013,Chinook Jargon,45
+2013,American Indian,7110
+2013,Jicarilla,510
+2013,Chiricahua,155
+2013,San Carlos,360
+2013,Kalispel,30
+2013,Hungarian,86406
+2013,Arabic,924374
+2013,Hebrew,212747
+2013,Amharic,195260
+2013,Berber,2940
+2013,Chadic,8565
+2013,Cushite,122445
+2013,Sudanic,8510
+2013,Nilotic,6890
+2013,Nilo-Hamitic,1275
+2013,Nubian,305
+2013,Saharan,80
+2013,Nilo-Saharan,270
+2013,Khoisan,55
+2013,Swahili,88685
+2013,Bantu,56685
+2013,Mande,29835
+2013,Fulani,30475
+2013,Gur,1310
+2013,Efik,5620
+2013,Mbum (and related),715
+2013,African,12320
+2013,Finnish,25805
+2013,Estonian,6035
+2013,Other Uralic languages,20
+2013,Caucasian,8980
+2013,Basque,1860
+2013,Syriac,74725
+2013,Aztecan,720
+2013,Sonoran,60
+2013,Misumalpan,95
+2013,Mayan languages,7650
+2013,Tarascan,60
+2013,Mapuche,210
+2013,Oto - Manguen,5100
+2013,Quechua,1300
+2013,Arawakian,3150
+2013,Chibchan,1095
+2013,Tupi-Guarani,245
